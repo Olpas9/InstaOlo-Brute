@@ -15,8 +15,7 @@ Hack any Instagram account through bruteforce.
 3. ``` git clone https://github.com/Olpas9/InstaOlo-Brute.git```
 4. ``` cd InstaOlo-Brute```
 5. ``` pip install mechanize```
-6. ``` pip install requirements.txt```
-7. ``` python InstaOlo.py```
+6. ``` python InstaOlo.py```
 # Usage
 $ ```python InstaOlo.py -u (username) -w (wordlist.txt) -p (proxy.txt) -t (thread) -v -d```
 <br>
