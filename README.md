@@ -15,6 +15,3 @@ Hack any Instagram account through bruteforce.
 4. ``` cd InstaOlo-Brute```
 5. ``` pip install mechanize```
 6. ``` pip install requirements.txt```
-# screenshot
- 
- 
