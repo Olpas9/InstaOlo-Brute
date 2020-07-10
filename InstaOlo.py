@@ -347,7 +347,7 @@ if __name__ == "__main__":
     print(bcolors.HEADER + """.-------------------------------------------------------.""")
     print("""| _____          _         _______  __                  |""")
     print("""||_   _|        | |        |  ___ |.| |.    ____        |""")
-    print("""|. |.|.         | |        | |. |.| | |    / __ \       |""")                             |"""
+    print("""|. |.|.         | |        | |. |.| | |    / __ \       |""")                            
     print("""|  | | _ __  ___| |_ __ _  | | .| | | |   | |  | |.     |""")
     print("""|  | || '_ \/ __| __/ _` | | |  | |'| |   | |. | |      |""")
     print("""| _| || | | \__ \ || (_| | | |__| | | |___| \_ /.|      |""")
@@ -356,7 +356,7 @@ if __name__ == "__main__":
     print("""|.  Instagram: https://www.instagram.com/olpas9/.       |""")
     print("""|.  "Ahsanteni San na mwisho nawaasa vijana wenzangu    |""")
     print("""|.   Usikatae tamaa pamban Mungu yupo nawew ".          |""")
-    print("""|.      HACKER FOR LIFE ☠️☠️.                           |""")                                                  |""")
+    print("""|.      HACKER FOR LIFE ☠️☠️.                           |""")                                                 
     print("""'-------------------------------------------------------'""")
 
     print(bcolors.OKGREEN + "[+] Username Loaded:", bcolors.BOLD + USER + bcolors.ENDC)
