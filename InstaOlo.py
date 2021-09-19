@@ -294,7 +294,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(
         description="Instagram BruteForcer",
-        epilog="./instabrute -u user_test -w words.txt -p proxys.txt -t 4 -d -v"
+        epilog="./Instaolo-brute -u user_test -w words.txt -p proxys.txt -t 4 -d -v"
     )
 
     # required argument
@@ -345,13 +345,14 @@ if __name__ == "__main__":
         logger = logging.getLogger(__name__)
 
     print(bcolors.HEADER + """.-------------------------------------------------------.""")
-    print("""| _____          _         _______  __                  |""")
-    print("""||_   _|        | |        |  ___ |.| |.    ____        |""")
-    print("""|. |.|.         | |        | |. |.| | |    / __ \       |""")                            
-    print("""|  | | _ __  ___| |_ __ _  | | .| | | |   | |  | |.     |""")
-    print("""|  | || '_ \/ __| __/ _` | | |  | |'| |   | |. | |      |""")
-    print("""| _| || | | \__ \ || (_| | | |__| | | |___| \_ /.|      |""")
-    print("""| \___/_| |_|___/\__\__,_| \______/ \ ____|\____/.      |""")
+    print(bcolors.OKGREEN + """| _____          _         _______  __                  |""")
+    print(bcolors.OKGREEN + """||_   _|        | |        |  ___ |.| |.    ____        |""")
+    print(bcolors.OKGREEN + """|. |.|.         | |        | |. |.| | |    / __ \       |""")                            
+    print(bcolors.OKGREEN + """|  | | _ __  ___| |_ __ _  | | .| | | |   | |  | |.     |""")
+    print(bcolors.OKGREEN + """|  | || '_ \/ __| __/ _` | | |  | |'| |   | |. | |      |""")
+    print(bcolors.OKGREEN + """| _| || | | \__ \ || (_| | | |__| | | |___| \_ /.|      |""")
+    print(bcolors.OKGREEN + """| \___/_| |_|___/\__\__,_| \______/ \ ____|\____/.      |""")
+    print(bcolors.BOLD + """___________________________________________________________|""")
     print("""|   AUTHOR:OLOO DAUDI.                                  |""")
     print("""|.  Instagram: https://www.instagram.com/olpas9/.       |""")
     print("""|.  "Ahsanteni San na mwisho nawaasa vijana wenzangu    |""")
