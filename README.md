@@ -33,4 +33,9 @@ Or use your own proxy.
 $ ```python InstaOlo.py -u (username) -w (wordlist.txt) -p (proxy.txt) -t (thread) -v -d```
 <br>
 In username you supposed to right the victim username .
+<br>
+Example:
+```
+python InstaOlo.py -u John -w Wordlist.txt -p proxy.txt -t 2 -v -d
+```
 
