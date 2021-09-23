@@ -381,7 +381,7 @@ if __name__ == "__main__":
     print("""|.  "Ahsanteni San na mwisho nawaasa vijana wenzangu                       |""")
     print("""|.   Usikatae tamaa pamban Mungu yupo nawew ".                             |""")
     print("""|.      HACKER FOR LIFE ☠️☠️.                                              |""")                                                 
-    print("""|.__________________________________________________________________________"""")
+    print("""|.__________________________________________________________________________""")
 
     print(bcolors.OKGREEN + "[+] Username Loaded:", bcolors.BOLD + USER + bcolors.ENDC)
     print(bcolors.OKGREEN + "[+] Words Loaded:", bcolors.BOLD + str(len(words)) + bcolors.ENDC)
