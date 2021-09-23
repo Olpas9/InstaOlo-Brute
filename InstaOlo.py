@@ -57,7 +57,7 @@ def check_proxy(q):
                 rq.HTTPSHandler()
             )
 
-            opener.addheaders = [('User-agent', 'Mozilla/5.0')]
+            opener.addheaders = [('User-agent', 'Mozilla/5.0 (X11; U; Linux i686) Gecko/20071127 Firefox/2.0.0.11')]
             rq.install_opener(opener)
 
             req = rq.Request('https://api.ipify.org/')
