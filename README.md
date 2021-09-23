@@ -1,5 +1,10 @@
 # InstaOlo-Brute
 Hack any Instagram account through bruteforce.
+
+# Attention:
+```
+The tools require more proxy so make sure you have many active proxy
+```
 # Author:Oloo Daudi
 # GitHub: Olpas9
 # instagram: https://www.instagram.com/olpas9/ <br>
