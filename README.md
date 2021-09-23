@@ -3,7 +3,9 @@ Hack any Instagram account through bruteforce.
 
 # Attention:
 ```
-The tools require more proxy so make sure you have many active proxy
+The tools require more proxy so make sure you have many active proxy 
+So may choose to use the given proxy.txt file
+Or use your own proxy.
 ```
 # Author:Oloo Daudi
 # GitHub: Olpas9
